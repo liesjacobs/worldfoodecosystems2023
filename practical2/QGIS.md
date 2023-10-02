@@ -38,17 +38,17 @@ You can now find the .csv files in your google drive, and you can download them 
 
 
 **
-Now, let's try to import this data into Rstudio and build a simple  [statistical regression](https://liesjacobs.github.io/worldfoodecosystems2022/practical2/Rstudio.html) to see if species richness is associated with elevation or NDVI
+Now, let's try to import this data into Rstudio and build a simple  [statistical regression](https://liesjacobs.github.io/worldfoodecosystems2023/practical2/Rstudio.html) to see if species richness is associated with elevation or NDVI
 
 <nav>
   <ul>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/intro.html">Practical 1: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html">Practical 1: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/intro.html">Practical 5: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html">Practical 1: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html">Practical 1: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html">Practical 5: exercise 1</a></li>
     <li><strong>Practical 5: exercise 2</strong></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/"><b>Back to Overview Page</b></a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/"><b>Back to Overview Page</b></a></li>
   </ul>
 </nav>
 
