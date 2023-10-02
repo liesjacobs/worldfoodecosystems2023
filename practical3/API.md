@@ -9,7 +9,7 @@ In the folder you downloaded on the previous page there are 3 types of files:
 
 
 
->Unzip the folder you just [downloaded](https://canvas.uva.nl/courses/32040/modules/items/1502508) and open both csv files in R and start a new R script. If you are not sure on how to do that: consult the previous practical [here](https://liesjacobs.github.io/worldfoodecosystems2022/practical2/Rstudio.html)
+>Unzip the folder you just [downloaded](https://canvas.uva.nl/courses/32040/modules/items/1502508) and open both csv files in R and start a new R script. If you are not sure on how to do that: consult the previous practical [here](https://liesjacobs.github.io/worldfoodecosystems2023/practical2/Rstudio.html)
 
 The original database might take a while to load (why?). The lakesaverage.csv should load quickly. 
 
@@ -48,21 +48,21 @@ Visually, do you conclude that most points have increased or decreased in their 
 
 
 
-**OK, now on to the GEE processing: let's extract data on water deficit and the biomes for each point [in the next exercise](https://liesjacobs.github.io/worldfoodecosystems2022/practical3/Mapping.html)
+**OK, now on to the GEE processing: let's extract data on water deficit and the biomes for each point [in the next exercise](https://liesjacobs.github.io/worldfoodecosystems2023/practical3/Mapping.html)
 
 
 <nav>
   <ul>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/intro.html">Practical 1: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html">Practical 1: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/intro.html">Practical 5: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/QGIS.html">Practical 5: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/intro.html">Practical 6: Problem description</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html">Practical 1: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html">Practical 1: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html">Practical 5: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/QGIS.html">Practical 5: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/intro.html">Practical 6: Problem description</a></li>
     <li><strong>Practical 6: Data Exploration</strong></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/Mapping.html">Practical 6: Exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/Analysis.html">Practical 6: Exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/"><b>Back to Overview Page</b></a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/Mapping.html">Practical 6: Exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/Analysis.html">Practical 6: Exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/"><b>Back to Overview Page</b></a></li>
   </ul>
 </nav>
