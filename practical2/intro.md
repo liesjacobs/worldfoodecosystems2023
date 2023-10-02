@@ -1,12 +1,12 @@
 # Welcome to the 5th practical. 
 
-In this practical we will be using a combination of Google Earth Engine and R to understand biodiversity patterns. It is essential that you found your way trough the [first practical](https://liesjacobs.github.io/worldfoodecosystems2022/practical1/intro.html) as these practical sessions intentionally have an increasing complexity. 
+In this practical we will be using a combination of Google Earth Engine and R to understand biodiversity patterns. It is essential that you found your way trough the [first practical](https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html) as these practical sessions intentionally have an increasing complexity. 
 
 ## Step 1: Required softwares and datasets: overview
 
 ### **Softwares** 
 
-As mentioned on the [starting page](https://liesjacobs.github.io/worldfoodecosystems2022/), you'll need Rstudio and a working account for [code editor](https://code.earthengine.google.com/).
+As mentioned on the [starting page](https://liesjacobs.github.io/worldfoodecosystems2023/), you'll need Rstudio and a working account for [code editor](https://code.earthengine.google.com/).
 
 ### Problem setting
 
@@ -129,17 +129,17 @@ Export.table.toDrive({
 
 
 
-**Now we are ready for the [next step](https://liesjacobs.github.io/worldfoodecosystems2022/practical2/QGIS.html): extracting the elevation data for each point**
+**Now we are ready for the [next step](https://liesjacobs.github.io/worldfoodecosystems2023/practical2/QGIS.html): extracting the elevation data for each point**
 
 <nav>
   <ul>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/intro.html">Practical 1: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html">Practical 1: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html">Practical 1: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html">Practical 1: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
     <li><strong>Practical 5: exercise 1</strong></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/QGIS.html">Practical 5: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/"><b>Back to Overview Page</b></a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/QGIS.html">Practical 5: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/"><b>Back to Overview Page</b></a></li>
   </ul>
 </nav>
 
