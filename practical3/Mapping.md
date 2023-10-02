@@ -1,9 +1,9 @@
 # Step 3: Extracting information from GEE
 
 
->First thing to do is to import the shapefile with the lake sampling points as an asset. You have done this in a previous practical, but if [you forgot how to do this, click here](https://liesjacobs.github.io/worldfoodecosystems2022/practical2/intro.html)
+>First thing to do is to import the shapefile with the lake sampling points as an asset. You have done this in a previous practical, but if [you forgot how to do this, click here](https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html)
 
-Import the data in your script (much like you did [here](https://liesjacobs.github.io/worldfoodecosystems2022/practical2/intro.html)), rename the variable and give it a logical name (e.g. 'lakes') and add the layer to the map. 
+Import the data in your script (much like you did [here](https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html)), rename the variable and give it a logical name (e.g. 'lakes') and add the layer to the map. 
 
 In my code, the line that visualizes the data looks like this: 
 ```javascript
@@ -45,22 +45,22 @@ This is similar to the water deficit, with the exception that the OpenLand Biome
 
 ### You now have two csv files in your google drive: one containing the information on the deficit in the 80s, one containing information on the biomes can be imported in R
 
-We now go back to R to do the [data analysis](https://liesjacobs.github.io/worldfoodecosystems2022/practical3/Analysis.html)
+We now go back to R to do the [data analysis](https://liesjacobs.github.io/worldfoodecosystems2023/practical3/Analysis.html)
 
 
 
 <nav>
   <ul>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/intro.html">Practical 1: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html">Practical 1: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/intro.html">Practical 5: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/QGIS.html">Practical 5: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/intro.html">Practical 6: Problem description</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/API.html">Practical 6: Exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html">Practical 1: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html">Practical 1: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html">Practical 5: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/QGIS.html">Practical 5: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/intro.html">Practical 6: Problem description</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/API.html">Practical 6: Exercise 1</a></li>
     <li><strong>Practical 6: Exercise 2</strong></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/Analysis.html">Practical 6: Exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/"><b>Back to Overview Page</b></a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/Analysis.html">Practical 6: Exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/"><b>Back to Overview Page</b></a></li>
   </ul>
 </nav>
