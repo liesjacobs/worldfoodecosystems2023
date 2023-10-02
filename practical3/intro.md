@@ -9,13 +9,13 @@ You will probably have noticed that the level has gone up, with more and more pi
 
 
 
-Make sure you found your way trough the [first practical](https://liesjacobs.github.io/World-Food-and-Ecosystems/practical1/intro.html) as well as the [fifth practical](https://liesjacobs.github.io/World-Food-and-Ecosystems/practical2/intro.html) as this last practical builds upon this. 
+Make sure you found your way trough the [first practical](https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html) as well as the [fifth practical](https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html) as this last practical builds upon this. 
 
 
 
 ## Step 1: The case-study
 
-The case we are investigating today is the salinization of fresh water lakes. Recently, a global dataset of surface water salinity - with measurements between 1980 and 2019 - was published [here](https://www.nature.com/articles/s41597-020-0562-z.pdf). The paper reports on the dataset and how it was established. In this practical we will analyze the dataset to answer following questions: 
+The case we are investigating today is the salinization of fresh water lakes. Recently, a global dataset of surface water salinity - with measurements between 1980 and 2019 - was published [here](https://www.nature.com/articles/s41467-021-24281-8). The paper reports on the dataset and how it was established. In this practical we will analyze the dataset to answer following questions: 
 - has salinity - as measured by the electrical conductivity (EC) increased or descreased in global freshwater lakes? 
 - Is salinity of the water linked to rainfall deficits? 
 - Are increases/decreases in salinity different across different biomes? 
@@ -51,21 +51,21 @@ The datasets by Thorslund et al. are very large and need to be pre-processed as 
 
 To make this exercise feasible, this preprocessing has already been done: the aggregated csv file and its conversion into a shapefile as well as the original file can be found [here](https://canvas.uva.nl/courses/32040/modules/items/1502508). 
 
-**Now we are ready for the [next step](https://liesjacobs.github.io/worldfoodecosystems2022/practical3/API.html): we'll first explore the original and the pre-processed data in R**
+**Now we are ready for the [next step](https://liesjacobs.github.io/worldfoodecosystems2023/practical3/API.html): we'll first explore the original and the pre-processed data in R**
 
 <nav>
   <ul>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/intro.html">Practical 1: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html">Practical 1: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/intro.html">Practical 5: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/QGIS.html">Practical 5: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html">Practical 1: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html">Practical 1: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html">Practical 5: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/QGIS.html">Practical 5: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/Rstudio.html">Practical 5: exercise 3</a></li>
     <li><strong>Practical 6: Describing the problem</strong></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/API.html">Practical 6: Exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/Mapping.html">Practical 6: Exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical3/Analysis.html">Practical 6: Exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/"><b>Back to Overview Page</b></a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/API.html">Practical 6: Exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/Mapping.html">Practical 6: Exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical3/Analysis.html">Practical 6: Exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/"><b>Back to Overview Page</b></a></li>
   </ul>
 </nav>
 
