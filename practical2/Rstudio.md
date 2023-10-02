@@ -115,13 +115,13 @@ abline(?, col="red", lwd=2)
 
 <nav>
   <ul>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/intro.html">Practical 1: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html">Practical 1: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/intro.html">Practical 5: exercise 1</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical2/QGIS.html">Practical 5: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/intro.html">Practical 1: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html">Practical 1: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/intro.html">Practical 5: exercise 1</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical2/QGIS.html">Practical 5: exercise 2</a></li>
     <li><strong>Practical 5: exercise 3</strong></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/"><b>Back to Overview Page</b></a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/"><b>Back to Overview Page</b></a></li>
   </ul>
 </nav>
 
