@@ -1,6 +1,6 @@
 # Welcome to the first practical. 
 
-In this practical we will be exploring the datasets and functionalities of Google Earth Engine. If all is well, you have created an account on earth engine by following the instructions on [the starting page](https://liesjacobs.github.io/worldfoodecosystems2022/).
+In this practical we will be exploring the datasets and functionalities of Google Earth Engine. If all is well, you have created an account on earth engine by following the instructions on [the starting page](https://liesjacobs.github.io/worldfoodecosystems2023/).
 
 There is some background available for this practicum (introduction provided in class). You can access the presentation [here](https://canvas.uva.nl/courses/32040/files/7231434?module_item_id=1419323)
 
@@ -174,7 +174,7 @@ myHelloFunction('world')
 In this practical, you won't have to write code yourself: we will adjust existing pieces of code, to get into the modus operandus. If you want to learn more, [this source from the science park study group](https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/) is an excellent starting point. 
 
 
-But now that you know the basics, let's explore its [functionalities](https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html)
+But now that you know the basics, let's explore its [functionalities](https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html)
 
 
 
@@ -183,9 +183,9 @@ But now that you know the basics, let's explore its [functionalities](https://li
 <nav>
   <ul>
     <li><strong>Practical 1: exercise 1</strong></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/exploring.html">Practical 1: exercise 2</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
-    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2022/"><b>Back to Overview Page</b></a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/exploring.html">Practical 1: exercise 2</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/practical1/understandinggradients.html">Practical 1: exercise 3</a></li>
+    <li><a href="https://liesjacobs.github.io/worldfoodecosystems2023/"><b>Back to Overview Page</b></a></li>
   </ul>
 </nav>
 
