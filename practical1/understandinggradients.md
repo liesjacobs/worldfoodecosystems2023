@@ -253,8 +253,8 @@ var vizParams = {
   palette: ['00FFFF', '0000FF'],
   opacity: 0.5
 };
-Map.addLayer(tempjan, vizParams);
-// Now click on Amsterdam on the map: what is the average monthly value for this city as depicted in the inspector?
+Map.addLayer(tempjan, vizParams, 'mean temperature januari'); 
+// Now click on Amsterdam on the map: what is the average monthly value for this city as depicted in the inspector? can this be correct?
 // Why is this value so high? (tip: search in the searchbar for the worldclim temperature dataset and look in the band description )
 // now we can take the average temperature over all the months: 
 var average_T = temperature.reduce('mean').multiply(0.1); //why do we multiply with 0.1? (again, search in the searchbar for the worldclim temperature dataset)
