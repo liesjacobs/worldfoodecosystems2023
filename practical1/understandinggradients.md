@@ -244,8 +244,20 @@ var climatevar = ee.ImageCollection('WORLDCLIM/V1/MONTHLY');
 print(climatevar); // Ok this dataset contains several images with multiple bands representing monthly means: we'll need to select the right band and average them to get an annual mean: 
 var temperature = climatevar.select('tavg');
 print(temperature); // is there now only one band per image? YES
-//now we can take the average temperature over all the months: 
-var average_T = temperature.reduce('mean').multiply(0.1); //why do we multiply with 0.1? (again, search in the searchbar for the openland temperature dataset)
+// However, there are still 12 features (for the 12 months): select the first one and plot it on the map. Like this: 
+var tempjan = temperature.first();
+print(tempjan);
+var vizParams = {
+  min: -100,
+  max : 250,
+  palette: ['00FFFF', '0000FF'],
+  opacity: 0.5
+};
+Map.addLayer(tempjan, vizParams);
+// Now click on Amsterdam on the map: what is the average monthly value for this city as depicted in the inspector?
+// Why is this value so high? (tip: search in the searchbar for the worldclim temperature dataset and look in the band description )
+// now we can take the average temperature over all the months: 
+var average_T = temperature.reduce('mean').multiply(0.1); //why do we multiply with 0.1? (again, search in the searchbar for the worldclim temperature dataset)
 
 print(average_T);
      
