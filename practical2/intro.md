@@ -25,7 +25,7 @@ This is an overview of the problem identification:
 | Dimensions | We'll consider the elevation and NDVI
 | Dimension description | elevation: ? , temperature: NDVI: calculated from the LANDSAT 8 mission  |
 
-(!)In reality the data was colelcted intermittently since 2007 but for the purposes of this practical, the data are aggregated and strongly simplified. Dealing with the temporal dimension of this dataset and with the particularities of data cleaning for camera trapping lies beyond the scope of this course. We *assume*, for the purposes of this exercise, the data is suitable for analysis against a landsat image of the year 2019 (see later). 
+(!)In reality the data was collected intermittently since 2007 but for the purposes of this practical, the data are aggregated and strongly simplified. Dealing with the temporal dimension of this dataset and with the particularities of data cleaning for camera trapping lies beyond the scope of this course. We *assume*, for the purposes of this exercise, the data is suitable for analysis against a landsat image of the year 2019 (see later). 
 
 
 And we'll use following data structures and sources:
