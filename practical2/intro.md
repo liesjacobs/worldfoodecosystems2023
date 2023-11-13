@@ -20,12 +20,12 @@ This is an overview of the problem identification:
 | building block  |  decision |
 |---|---|
 | Geographic unit |  points  |
-| temporal scale |  2019*|
+| temporal scale |  2019(!)|
 | Assumption | Species richness depends on the amount of energy available. Here we will use NDVI as a proxy for net primary production. Additionally, we assume that richness decreases with temperature, and thus will decrease when elevations are higher |
 | Dimensions | We'll consider the elevation and NDVI
 | Dimension description | elevation: ? , temperature: NDVI: calculated from the LANDSAT 8 mission  |
 
-*In reality the data was colelcted intermittently since 2007 but for the purposes of this practical, the data are aggregated and strongly simplified. We *assume*, for the purposes of this exercise, the data is suitable for analysis against a landsat image of the year 2019 (see later). 
+(!)In reality the data was colelcted intermittently since 2007 but for the purposes of this practical, the data are aggregated and strongly simplified. We *assume*, for the purposes of this exercise, the data is suitable for analysis against a landsat image of the year 2019 (see later). 
 
 
 And we'll use following data structures and sources:
